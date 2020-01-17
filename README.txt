@@ -1,1 +1,1 @@
-这是我用来学习前端制作的网页。做的很差，还有很长的路要走。
+I am a new front-end learner
